@@ -17,6 +17,16 @@ Open a configure page and hit **Install** — or paste the manifest URL (`https:
 
 **Duckurbate for Kodi**: download [plugin.video.duckurbate-0.1.0.zip](https://raw.githubusercontent.com/pgx47/duckurbate/master/plugin.video.duckurbate-0.1.0.zip) and install via *Add-ons → Install from zip*. Browse all 4 sites inside Kodi, same live catalogs as the Stremio addons.
 
+## CloudStream (Android)
+
+Add this repository URL in CloudStream (Settings → Extensions → Add repository):
+
+```
+https://raw.githubusercontent.com/pgx47/duckurbate/builds/repo.json
+```
+
+Then install **DuckurbateProvider** — same live catalogs (all 4 sites) inside CloudStream.
+
 ## DuckRoulette
 
 **https://roulette.duckurbate.xyz/** — random live cam roulette: each spin drops you into a live room from Chaturbate, Stripchat, BongaCams & CAM4. HD, instant zap, taste-tuned by your likes, no signup. Installable as a PWA.
