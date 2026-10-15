@@ -1,0 +1,8 @@
+{
+    "name": "Duckurbate",
+    "description": "Duckurbate Cloudstream repository - 18+ live cams",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/pgx47/duckurbate/builds/plugins.json"
+    ]
+}
