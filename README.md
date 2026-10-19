@@ -15,7 +15,7 @@ Open a configure page and hit **Install** — or paste the manifest URL (`https:
 
 ## Kodi
 
-**Duckurbate for Kodi**: download [plugin.video.duckurbate-0.1.2.zip](https://raw.githubusercontent.com/pgx47/duckurbate/master/plugin.video.duckurbate-0.1.2.zip) and install via *Add-ons → Install from zip*. Browse all 4 sites inside Kodi, same live catalogs as the Stremio addons.
+**Duckurbate for Kodi**: download [plugin.video.duckurbate-0.1.3.zip](https://raw.githubusercontent.com/pgx47/duckurbate/master/plugin.video.duckurbate-0.1.3.zip) and install via *Add-ons → Install from zip*. Browse all 4 sites inside Kodi, same live catalogs as the Stremio addons.
 
 ## CloudStream (Android)
 
