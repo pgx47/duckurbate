@@ -2,7 +2,7 @@
   {
     "iconUrl": "https://duckurbate.xyz/duckurbate-icon.png",
     "jarFileSize": 113129,
-    "fileHash": "sha256-039877e9daa1e6b83a622f4f963f5a5e9ff50339b7bd9519e3c9b2e41491aa44",
+    "fileHash": "sha256-99f1b691fc101fc1a01a2939dbe7f94afea6c6a53273b009ebf6581615bd0800",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/pgx47/duckurbate",
     "fileSize": 24252,
@@ -12,9 +12,9 @@
       "pgx47"
     ],
     "tvTypes": [
-      "NSFW"
+      "Live"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "DuckurbateProvider",
     "jarUrl": "https://raw.githubusercontent.com/pgx47/duckurbate/builds/DuckurbateProvider.jar",
     "description": "18+ live cams - Chaturbate, Stripchat, BongaCams, CAM4",
