@@ -1,25 +1,25 @@
 [
-    {
-        "iconUrl": "https://duckurbate.xyz/duckurbate-icon.png",
-        "jarFileSize": 113045,
-        "fileHash": "sha256-96db6769809ca3ac8284e0b498dbfd8dcdd1086dc75f888f1c1f1ae1ffa44b8c",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/pgx47/duckurbate",
-        "fileSize": 24149,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "pgx47"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 3,
-        "internalName": "DuckurbateProvider",
-        "jarUrl": "https://raw.githubusercontent.com/pgx47/duckurbate/builds/DuckurbateProvider.jar",
-        "description": "18+ live cams - Chaturbate, Stripchat, BongaCams, CAM4",
-        "url": "https://raw.githubusercontent.com/pgx47/duckurbate/builds/DuckurbateProvider.cs3",
-        "name": "DuckurbateProvider",
-        "jarHash": "sha256-e646e4162e80bf01b613a940ef73611709c4fd2da43aa2c5bc513faeab48e94f"
-    }
+  {
+    "iconUrl": "https://duckurbate.xyz/duckurbate-icon.png",
+    "jarFileSize": 113129,
+    "fileHash": "sha256-039877e9daa1e6b83a622f4f963f5a5e9ff50339b7bd9519e3c9b2e41491aa44",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/pgx47/duckurbate",
+    "fileSize": 24252,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "pgx47"
+    ],
+    "tvTypes": [
+      "NSFW"
+    ],
+    "version": 4,
+    "internalName": "DuckurbateProvider",
+    "jarUrl": "https://raw.githubusercontent.com/pgx47/duckurbate/builds/DuckurbateProvider.jar",
+    "description": "18+ live cams - Chaturbate, Stripchat, BongaCams, CAM4",
+    "url": "https://raw.githubusercontent.com/pgx47/duckurbate/builds/DuckurbateProvider.cs3",
+    "name": "DuckurbateProvider",
+    "jarHash": "sha256-6236f13aabc10aae7fd0509e807e1f741c18b8a0f22e789d0f23228644d17243"
+  }
 ]
